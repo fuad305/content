@@ -1,4 +1,4 @@
----
+---https://m.facebook.com/amir.moha.524
 title: URL.hash
 slug: Web/API/URL/hash
 tags:
